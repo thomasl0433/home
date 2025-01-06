@@ -16,21 +16,9 @@ const mainBody = {
       url: "https://github.com/thomasl0433",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
-    {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/thomas-levine-tal/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    }
   ],
 };
 
